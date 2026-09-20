@@ -1,0 +1,8 @@
+VERIFICATIONS EPISODE 4
+- index.html : aucune balise <img>
+- accueil : Episode 4 / On mange où ?
+- episode-4.html présent
+- illustration principale : après Le carnet de Léa
+- teaser Episode 5 : après illustration
+- épisodes 1, 2, 3 conservés
+- firebase.json présent

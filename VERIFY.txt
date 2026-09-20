@@ -1,0 +1,5 @@
+index_img_count=0
+episode3_img_count=1
+episode3_img_src=assets/episode3-anniversaire-final.png
+order_notebook_visual_next=True
+image_exists=True

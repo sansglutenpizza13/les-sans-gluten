@@ -1,0 +1,6 @@
+homepage_has_zero_img_tags=True
+homepage_has_no_background_image_inline=True
+homepage_has_explicit_accueil_link=True
+episode3_has_one_img_tag=True
+episode3_image_after_notebook=True
+episode3_image_before_next=True
