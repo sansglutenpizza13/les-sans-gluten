@@ -158,3 +158,10 @@ h1{font-size:clamp(42px,6vw,78px);letter-spacing:-.045em}.hero-copy h1{font-size
 .hero-card:not(:has(.hero-image)) .hero-copy{padding:48px 54px;grid-template-columns:minmax(0,1.7fr) auto;align-items:center}
 .hero-card:not(:has(.hero-image)){background:linear-gradient(135deg,#fff 0%,#fffaf2 100%)}
 @media(max-width:900px){.hero-card:not(:has(.hero-image)) .hero-copy{grid-template-columns:1fr;padding:32px 28px}}
+
+
+/* Illustration éditoriale de la page d’accueil */
+.home-illustration{padding:12px 0 34px}
+.home-illustration-frame{margin:0;overflow:hidden;border-radius:30px;border:1px solid rgba(21,54,93,.08);box-shadow:var(--shadow);background:#fff}
+.home-illustration-frame img{display:block;width:100%;height:auto;object-fit:cover}
+@media(max-width:560px){.home-illustration{padding:4px 0 24px}.home-illustration-frame{border-radius:20px}}
